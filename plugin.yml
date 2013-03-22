@@ -1,0 +1,8 @@
+name: itemfilter
+version: 1.0
+main: eu.benni1000.itemfilter.Itemfilter
+
+commands:
+  itemfilter:
+    description: Basic Itemfilter command
+    usage: /<command>
