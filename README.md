@@ -49,7 +49,3 @@ To use the itemfilter you have to add an item to the itemfilter using the
 itemfilter add command: /itemfilter add cobblestone . Now that cobblestone
 is in the filter you can enable the filter to stop collecting cobbelstones:
 /itemfilter status on . Now you could change the filter-mode to whitelist to only collect cobblestone and no other items: /itemfilter mode whitelist .
-
-###Additional-infos:###
-You can find the Sourcecode on Github: https://github.com/Benni1000/itemfilter
-feel free to create an pull request if you want an feature added, I will look into it!
