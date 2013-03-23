@@ -26,13 +26,21 @@ using the /itemfilter reload command.
 
 ###Commands###
 /itemfilter add <id>[:type] - Adds a new block to the filter.
+
 /itemfilter remove <id>[:type] - Removes a block from the filter.
+
 /itemfilter status <on/off> - Enables or disables the filter.
+
 /itemfilter mode <whitelist/blacklist> - Changes the filter to a white or a blacklist.
+
 /itemfilter clear - Removes all items from the filter.
+
 /itemfilter show - Displays all Blocks on the list, and additional information.
+
 /itemfilter reload - Reloads the plugin configuration.
+
 /itemfilter save - Saves all players to the database.
+
 
 ###Permissions###
 itemfilter.use
